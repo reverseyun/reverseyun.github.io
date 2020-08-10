@@ -5895,6 +5895,10 @@ blockquote.pullquote.right {
 }
 #my-aplayer .aplayer-body {
   bottom: 50px;
+  left: -65px;
+}
+#my-aplayer .aplayer-body:hover {
+  left: 0;
 }
 .full_page {
   background: transparent !important;
