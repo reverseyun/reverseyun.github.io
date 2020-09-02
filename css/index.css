@@ -5892,13 +5892,12 @@ blockquote.pullquote.right {
 }
 #my-aplayer {
   bottom: 50px;
+  width: 270px;
 }
 #my-aplayer .aplayer-body {
   bottom: 50px;
   left: -65px;
-}
-#my-aplayer .aplayer-body:hover {
-  left: 0;
+  width: 270px;
 }
 .full_page {
   background: transparent !important;
